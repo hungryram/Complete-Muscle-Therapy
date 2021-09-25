@@ -6,12 +6,16 @@
     </div>
     <div class="uk-flex uk-flex-center uk-margin-large-top">
         <div class="uk-width-large">
-            {{ range .Params.add_ons }}
-            <div class="uk-grid-small" uk-grid>
-                <div class="uk-width-expand" uk-leader>{{ .name }}</div>
-                <div>{{ .price }}</div>
-            </div>
-            {{ end }}
+            <ul uk-accordion>
+                {{ range .Params.add_ons }}
+                <li>
+                    <a class="uk-accordion-title uk-white" style="font-size: 1.5rem;" href="#">{{ .name }} &#8212; {{ .price }}</a>
+                    <div class="uk-accordion-content">
+                        <p>{{ .description }}</p>
+                    </div>
+                </li>
+                {{ end }}
+            </ul>
         </div>
     </div>
 </div>
