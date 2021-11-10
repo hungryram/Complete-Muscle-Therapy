@@ -35,7 +35,6 @@ sections:
 - type: document
   path: content/add-ons/_index.md
   label: Add Ons
-  match: "**/*"
 - type: document
   path: content/contact/_index.md
   label: Contact
