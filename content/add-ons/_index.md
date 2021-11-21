@@ -14,7 +14,7 @@ description = "Full Body Hot Stone Massage!\nHot Stone Therapy is a style of mas
 name = "Full Hot Stones"
 price = "$20"
 [[add_ons]]
-description = ""
+description = "Lavender Infused Steamed Eye Mask Add-On\nFeel relaxed and rejuvenated with this 20 min add-on. This self-heating mask helps reduce dark circles, puffiness & tension by boosting circulation. Infused with lavender and a therapeutic blend of skin-soothing ingredients for the delicate skin around the eyes."
 name = "Lavendar Steamed Eyemask"
 price = "$20"
 
