@@ -10,7 +10,7 @@ description = "Hot Stone Therapy is a style of massage where heated stones are p
 name = "Hot Stones"
 price = "$20"
 [[add_ons]]
-description = "Choose 1 Area Of The Body For Hot Stones To Be Used.\nHot Stone Therapy is a style of massage where heated stones are placed at specific sites on your body to deepen relaxation and promote circulation in your muscles. Muscles that are heated with these stones release tension and stress much more deeply and quickly than with a traditional massage. The overall experience is very relaxing, nurturing, and rejuvenating."
+description = "Choose Only One Area Of The Body For Hot Stones To Be Used.\nHot Stone Therapy is a style of massage where heated stones are placed at specific sites on your body to deepen relaxation and promote circulation in your muscles. Muscles that are heated with these stones release tension and stress much more deeply and quickly than with a traditional massage. The overall experience is very relaxing, nurturing, and rejuvenating."
 name = "Mini Hot Stones"
 price = "$15"
 [[add_ons]]
