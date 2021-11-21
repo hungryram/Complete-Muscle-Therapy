@@ -1,6 +1,10 @@
 +++
 title = "Client Reviews"
 [[reviews]]
+date = "10/31/21"
+review = "She is absolutely amazing"
+title = "Anonymous"
+[[reviews]]
 date = ""
 review = "Corinne was great! I have autoimmune issues and she was able to relate to my concerns and help me with my neck issues. I left after the massage feeling better than I have in months. I booked another appointment to see her in two weeks."
 title = "Michelle R."
