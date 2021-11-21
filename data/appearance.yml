@@ -6,9 +6,9 @@ header:
   enable_white_text: false
   enable_white_text_top: false
 branding:
-  site_title: RN Insurance
-  logo: 
-  dark_logo: 
+  site_title: ''
+  logo: ''
+  dark_logo: ''
   favicon: https://res.cloudinary.com/hungryram19/image/upload/v1632340551/corinne-renteria/complete-muscle-therapy/favicon.png
   logo_width: 
 colors:
@@ -22,4 +22,7 @@ footer:
   footer_background_color: ''
   background_image: ''
   enable_black_text: false
-  footer_bio: Complete Muscle Therapy is located in Orange off Katella. I'm a licensed neuromuscular massage therapist focused on muscle pain and recovery.
+  footer_bio: Complete Muscle Therapy is located in Orange off Katella. I'm a licensed
+    neuromuscular massage therapist focused on muscle pain and recovery.
+  disclaimer: ''
+  important_documents: []
