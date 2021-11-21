@@ -2,7 +2,6 @@
 author = []
 categories = []
 date = 2021-11-21T08:00:00Z
-draft = true
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/d6f68c2a-500a-4912-82f5-aa5ef7046a3c.PNG"
 image_alt_tag = ""
 tags = []
