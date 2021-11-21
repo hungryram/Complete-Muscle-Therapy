@@ -1,6 +1,10 @@
 +++
 body = ""
 title = "Massage Add-ons - Complete Muscle Therapy"
+[menu.main]
+name = "Add- Ons"
+parent = "Services"
+weight = 2
 [[add_ons]]
 description = "Enhance your massage with pure essential oils which can relieve stress, pain, and inflammation.\nEnjoy the your choice of:\nLavender, Peppermint, Eucalyptus, or Wild Orange!"
 name = "Aromatherapy"

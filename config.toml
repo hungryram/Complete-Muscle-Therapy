@@ -4,22 +4,27 @@ enableRobotsTXT = "true"
 languageCode = "en-us"
 summaryLength = 25
 [[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
-[[menu.main]]
-name = "Services"
+name = "Massage"
+parent = "Services"
 url = "/services"
-weight = 5
-[[menu.main]]
-name = "Home"
-url = "/"
 weight = 1
+[[menu.main]]
+name = "Blog"
+url = "/blog"
+weight = 2
 [[menu.main]]
 name = "Testimonials"
 url = "/testimonials"
 weight = 4
 [[menu.main]]
-name = "Blog"
-url = "/blog"
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Services"
+url = "/services"
+weight = 6
+[[menu.main]]
+name = "About"
+url = "/about"
 weight = 3
