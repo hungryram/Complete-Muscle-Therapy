@@ -1,4 +1,4 @@
-baseURL = "https://complete-muscle-therapy.netlify.app"
+baseURL = "https://www.completemuscletherapy.net"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = "true"
 languageCode = "en-us"
