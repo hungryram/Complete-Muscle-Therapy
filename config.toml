@@ -1,4 +1,4 @@
-baseURL = "https://www.completemuscletherapy.net"
+baseURL = "https://www.completemuscletherapy.net/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = "true"
 languageCode = "en-us"
