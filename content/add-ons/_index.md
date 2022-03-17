@@ -6,6 +6,10 @@ name = "Add- Ons"
 parent = "Services"
 weight = 2
 [[add_ons]]
+description = "Relieves pain through a menthol-analgesic cooling gel. It relieves pain naturally for conditions such as overworked muscles, chronic pain, or arthritis."
+name = "BioFreeze"
+price = "$10"
+[[add_ons]]
 description = "Enhance your massage with pure essential oils which can relieve stress, pain, and inflammation.\nEnjoy the your choice of:\nLavender, Peppermint, Eucalyptus, or Wild Orange!"
 name = "Aromatherapy"
 price = "$10"
