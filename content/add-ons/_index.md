@@ -6,10 +6,6 @@ name = "Add- Ons"
 parent = "Services"
 weight = 2
 [[add_ons]]
-description = "Providing both broad and full spectrum CBD oil.\nEnjoy the benefits from CBD such as: Chronic Pain Relief, Reduces Inflammation, Reduces Anxiety & Stress, Helps with Sleep, Improves Skin Health, Boosts Your Mood."
-name = "CBD Massage"
-price = "30.00"
-[[add_ons]]
 description = "Enhance your massage with pure essential oils which can relieve stress, pain, and inflammation.\nEnjoy the your choice of:\nLavender, Peppermint, Eucalyptus, or Wild Orange!"
 name = "Aromatherapy"
 price = "$10"
@@ -29,5 +25,9 @@ price = "$20"
 description = "Lavender Infused Steamed Eye Mask Add-On\nFeel relaxed and rejuvenated with this 20 min add-on. This self-heating mask helps reduce dark circles, puffiness & tension by boosting circulation. Infused with lavender and a therapeutic blend of skin-soothing ingredients for the delicate skin around the eyes."
 name = "Lavender Steamed Eye Mask"
 price = "$20"
+[[add_ons]]
+description = "Providing both broad and full spectrum CBD oil.\nEnjoy the benefits from CBD such as: Chronic Pain Relief, Reduces Inflammation, Reduces Anxiety & Stress, Helps with Sleep, Improves Skin Health, Boosts Your Mood."
+name = "CBD Massage"
+price = "30.00"
 
 +++
