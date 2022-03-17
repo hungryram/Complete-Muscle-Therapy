@@ -1,5 +1,5 @@
 +++
-last_update = "November 12, 2020"
+last_update = "November 12, 2021"
 meta_description = ""
 title = "Terms and Conditions"
 title_tag = ""
