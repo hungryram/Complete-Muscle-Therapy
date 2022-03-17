@@ -6,12 +6,16 @@ name = "Add- Ons"
 parent = "Services"
 weight = 2
 [[add_ons]]
-description = "Relieves pain through a menthol-analgesic cooling gel. It relieves pain naturally for conditions such as overworked muscles, chronic pain, or arthritis."
-name = "BioFreeze"
-price = "$10"
+description = "Providing both broad and full spectrum CBD oil.\nEnjoy the benefits from CBD such as: Chronic Pain Relief, Reduces Inflammation, Reduces Anxiety & Stress, Helps with Sleep, Improves Skin Health, Boosts Your Mood."
+name = "CBD Massage"
+price = "30.00"
 [[add_ons]]
 description = "Enhance your massage with pure essential oils which can relieve stress, pain, and inflammation.\nEnjoy the your choice of:\nLavender, Peppermint, Eucalyptus, or Wild Orange!"
 name = "Aromatherapy"
+price = "$10"
+[[add_ons]]
+description = "Relieves pain through a menthol-analgesic cooling gel. It relieves pain naturally for conditions such as overworked muscles, chronic pain, or arthritis."
+name = "BioFreeze"
 price = "$10"
 [[add_ons]]
 description = "Choose Only One Area Of The Body For Hot Stones To Be Used.\nHot Stone Therapy is a style of massage where heated stones are placed at specific sites on your body to deepen relaxation and promote circulation in your muscles. Muscles that are heated with these stones release tension and stress much more deeply and quickly than with a traditional massage. The overall experience is very relaxing, nurturing, and rejuvenating."
