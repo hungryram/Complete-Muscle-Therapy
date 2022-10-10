@@ -5,7 +5,7 @@ meta_description = "Work with Randy Nong at RN Insurance. Please don’t hesitat
 title = "Contact"
 title_tag = "Contact RN Insurance"
 [menu.main]
-weight = 5
+weight = 6
 [search_engine_optimization]
 meta_description = "Have any questions? Please use the form on this page to contact Complete Muscle Therapy in Orange."
 title_tag = "Contact Complete Muscle Therapy"
