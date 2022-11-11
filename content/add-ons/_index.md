@@ -8,7 +8,7 @@ weight = 2
 [[add_ons]]
 description = "Our Pumpkin Cream Cold Brew Massage offers a lovely autumn morning aroma while bringing great benefits to your skin. The massage provides pumpkin spice oil infused with coffee oil as it helps minimize any stretch marks or scarring while waking up your skin. It is topped off with pumpkin spice cream to soothe and moisturize the skin."
 name = "Pumpkin Cream Cold Brew Massage"
-price = "$5.00"
+price = "$5"
 [[add_ons]]
 description = "Enhance your massage with pure essential oils which can relieve stress, pain, and inflammation.\nEnjoy the your choice of:\nLavender, Peppermint, Eucalyptus, or Wild Orange!"
 name = "Aromatherapy"
