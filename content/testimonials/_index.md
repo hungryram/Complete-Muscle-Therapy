@@ -2,6 +2,10 @@
 title = "Client Reviews"
 [[reviews]]
 date = "9/4/22"
+review = "I recently visited Corinne to help resolve chronic neck and shoulder pain stemming from a bad car accident that happened over 15 years ago. I've been to quite a few massage therapists over the years, but Corinne was the only one to eliminate virtually all of my pain. No other massage therapists--or chiropractors for that matter--have come close. She is kind, caring, and takes a different approach that sets her apart from many other therapists: neuromuscular massage therapy. To be honest, the therapy itself is a bit uncomfortable for me at times, as it takes a lot of work to \"release\" the muscles back to their natural state. No pain, no gain! It's been 100% worth it, a bit of short-term discomfort pays off in the long run. I never thought I'd be able to live pain-free, but here I am!"
+title = "Andrew B."
+[[reviews]]
+date = "9/4/22"
 review = "I have been seeing Corrine for months now and honestly my body has benefited so much from her work. I have had chronic pain in my body, could almost even say over my whole body, for years from all the sports and physical activities I did growing up. Not to mention I had a baby 14 months ago so a lot of parents can relate that it's not a light load daily for my shoulders. From personal experience no one has helped me the way she has. She is very attentive and kind. I hope anyone that's struggling with body pain can give her a shot."
 title = "Michelle H."
 [[reviews]]
