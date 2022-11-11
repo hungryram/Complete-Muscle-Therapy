@@ -1,6 +1,10 @@
 +++
 title = "Client Reviews"
 [[reviews]]
+date = "9/4/22"
+review = "I have been seeing Corrine for months now and honestly my body has benefited so much from her work. I have had chronic pain in my body, could almost even say over my whole body, for years from all the sports and physical activities I did growing up. Not to mention I had a baby 14 months ago so a lot of parents can relate that it's not a light load daily for my shoulders. From personal experience no one has helped me the way she has. She is very attentive and kind. I hope anyone that's struggling with body pain can give her a shot."
+title = "Michelle H."
+[[reviews]]
 date = "8/31/22"
 review = "Corinne is Very professional punctual. And  is great with her hands. Knows exactly what she's doing. I had knots on my back she found them before I got a chance to tell her. Felt so relaxed after. I slept so good that night. TY. Corinne."
 title = "Roman M."
