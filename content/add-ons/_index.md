@@ -36,6 +36,6 @@ price = "$20"
 [[add_ons]]
 description = "Providing both broad and full spectrum CBD oil.\nEnjoy the benefits from CBD such as: Chronic Pain Relief, Reduces Inflammation, Reduces Anxiety & Stress, Helps with Sleep, Improves Skin Health, Boosts Your Mood."
 name = "CBD Massage"
-price = "30"
+price = "$30"
 
 +++
