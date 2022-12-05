@@ -8,7 +8,7 @@ weight = 2
 [[add_ons]]
 description = "Peppermint Scalp Massage will nourish your hair, scalp and skin and energize your spirit. It will relax your mind while leaving you revitalized and recharged."
 name = "Peppermint Scalp Massage"
-price = "5"
+price = "$5"
 [[add_ons]]
 description = "Our Pumpkin Cream Cold Brew Massage offers a lovely autumn morning aroma while bringing great benefits to your skin. The massage provides pumpkin spice oil infused with coffee oil as it helps minimize any stretch marks or scarring while waking up your skin. It is topped off with pumpkin spice cream to soothe and moisturize the skin."
 name = "Pumpkin Cream Cold Brew Massage"
